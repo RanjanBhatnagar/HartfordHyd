@@ -7,3 +7,14 @@ Submit following
 1.	Create a responsive flexbox layout for a simple page
 2.	Build grid-based product list layout: Frontend Mentor Product List
 3.	Make Product List page responsive for mobile, tablet, desktop
+
+
+Day 8 - Week 2 Day 3 - January 8th 2025
+1. Tailwind setup --> 
+    a. Using CDN
+    b. Via npm
+2. Change background, padding & margins using Tailwind
+3. Create responsive nav bar and image gallery
+4. Replicate e-commerce product page with Tailwind: Frontend Mentor E-commerce
+Submit Following
+1. Fully responsive Tailwind-based e-commerce product page 
