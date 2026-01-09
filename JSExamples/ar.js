@@ -40,7 +40,7 @@ const policy1 = {
   },
 };
 
-policy.showPremium();
+policy1.showPremium();
 
 const policy2 = {
   premium: 10000,
