@@ -1,13 +1,15 @@
-Day 7 - Week 2 Day 2 - January 7th 2025
-
-1.	Box Model, Margin, Padding, Border, Flexbox basics, alignments, justify content
-2.	Grid container, items, columns, rows, Grid templates, gaps, alignment
-3.	Breakpoints, responsive design principles
+Day 9 - Week 2 Day 4 - January 8th 2025
+1. Variables, data types, operators 
+2. ES6 features: let/const, template literals, arrow functions
+3. map, filter, reduce, loops 
+4. Writing clean, standard code (prettier, eslint)
+5. Working with DOMs, Selecting elements, changing content, attributes, styles 
+6. Traversing the DOM 
 Submit following
-1.	Create a responsive flexbox layout for a simple page
-2.	Build grid-based product list layout: Frontend Mentor Product List
-3.	Make Product List page responsive for mobile, tablet, desktop
-
+1. Implement logic for Bento Grid page using JS array methods
+2. Dynamic Bento Grid page with JS interactivity
+3. Weekly Assignment need to be submitted by Monday EOD.
+==========================================================================================================================
 
 Day 8 - Week 2 Day 3 - January 8th 2025
 1. Tailwind setup --> 
@@ -18,3 +20,15 @@ Day 8 - Week 2 Day 3 - January 8th 2025
 4. Replicate e-commerce product page with Tailwind: Frontend Mentor E-commerce
 Submit Following
 1. Fully responsive Tailwind-based e-commerce product page 
+==========================================================================================================================
+
+Day 7 - Week 2 Day 2 - January 7th 2025
+
+1.	Box Model, Margin, Padding, Border, Flexbox basics, alignments, justify content
+2.	Grid container, items, columns, rows, Grid templates, gaps, alignment
+3.	Breakpoints, responsive design principles
+Submit following
+1.	Create a responsive flexbox layout for a simple page
+2.	Build grid-based product list layout: Frontend Mentor Product List
+3.	Make Product List page responsive for mobile, tablet, desktop
+==========================================================================================================================
